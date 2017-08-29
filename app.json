@@ -1,0 +1,19 @@
+{
+  "name": "LINE Chatbot",
+  "description": "For line messaging api",
+  "keywords": [
+    "line"
+  ],
+  "repository": "https://github.com/nishiharapiala/line-chatbot",
+  "logo": "https://logo.png",
+  "env": {
+    "LINE_CHANNEL_SECRET": {
+      "description": "line secret key",
+      "value": ""
+    },
+    "LINE_CHANNEL_ACCESS_TOKEN": {
+      "description": "line access token",
+      "value": ""
+    }
+  }
+}
