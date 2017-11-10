@@ -1,5 +1,5 @@
-# line-chatbot
-line messaging api test
+# LINE chatbot
+- LINE Messaging API
 
 # deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
